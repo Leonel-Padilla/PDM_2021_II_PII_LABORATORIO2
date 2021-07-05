@@ -59,7 +59,7 @@ class Clases() : Parcelable {
     }
 
     override fun toString(): String {
-        return "Codigo : ${codigo}\nNombre: $nombre\nSeccion: $seccion\nHora: $hora\nEdificio: $edificio\nAula: $aula"
+        return "Codigo : ${codigo}\nNombre: $nombre\nSección: $seccion\nHora: $hora\nEdificio: $edificio\nAula: $aula"
     }
 
 }
